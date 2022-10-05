@@ -3,3 +3,4 @@ pandas
 Flask
 matplotlib
 sklearn
+seaborn
